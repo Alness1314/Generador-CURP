@@ -1,0 +1,20 @@
+.marginDivider{
+    margin-top: 2em;
+    margin-bottom: 0;
+}
+
+.titleNavBar{
+    font-size: 18px;
+    margin-left: 1em;
+    font-weight: 500;
+}
+
+.cardMargin{
+    margin-top: 3em;
+}
+
+@media only screen and (max-width : 992px) {
+    .sizeButton{
+        width: 100%;
+    }
+}
